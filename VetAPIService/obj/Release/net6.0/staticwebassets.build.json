@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wSd6xeIKVSkCAXTrC2EjNCHRXGs/VtjQljKHvttsccw=",
+  "Source": "VetAPIService",
+  "BasePath": "_content/VetAPIService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

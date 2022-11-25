@@ -1,0 +1,17 @@
+D:\vet-service\VetService.Data\bin\Release\net6.0\VetService.Data.deps.json
+D:\vet-service\VetService.Data\bin\Release\net6.0\VetService.Data.runtimeconfig.json
+D:\vet-service\VetService.Data\bin\Release\net6.0\VetService.Data.dll
+D:\vet-service\VetService.Data\bin\Release\net6.0\VetService.Data.pdb
+D:\vet-service\VetService.Data\bin\Release\net6.0\VetService.Domain.dll
+D:\vet-service\VetService.Data\bin\Release\net6.0\VetService.Domain.pdb
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.csproj.AssemblyReference.cache
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.AssemblyInfoInputs.cache
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.AssemblyInfo.cs
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.csproj.CoreCompileInputs.cache
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.csproj.CopyComplete
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.dll
+D:\vet-service\VetService.Data\obj\Release\net6.0\refint\VetService.Data.dll
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.pdb
+D:\vet-service\VetService.Data\obj\Release\net6.0\VetService.Data.genruntimeconfig.cache
+D:\vet-service\VetService.Data\obj\Release\net6.0\ref\VetService.Data.dll

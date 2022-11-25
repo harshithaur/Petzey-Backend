@@ -1,0 +1,12 @@
+D:\vet-service\VetService.Domain\bin\Release\net6.0\VetService.Domain.deps.json
+D:\vet-service\VetService.Domain\bin\Release\net6.0\VetService.Domain.dll
+D:\vet-service\VetService.Domain\bin\Release\net6.0\VetService.Domain.pdb
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.csproj.AssemblyReference.cache
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.AssemblyInfoInputs.cache
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.AssemblyInfo.cs
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.csproj.CoreCompileInputs.cache
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.dll
+D:\vet-service\VetService.Domain\obj\Release\net6.0\refint\VetService.Domain.dll
+D:\vet-service\VetService.Domain\obj\Release\net6.0\VetService.Domain.pdb
+D:\vet-service\VetService.Domain\obj\Release\net6.0\ref\VetService.Domain.dll
